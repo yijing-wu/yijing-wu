@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, This is Yijing Wu 👋
 
 <!--
 **yijing-wu/yijing-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div>
+  <img height="170em" src="https://github-readme-stats-yijing-wu.vercel.app/api?username=yijing-wu&show_icons=true&theme=default&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats-yijing-wu.vercel.app/api/top-langs/?username=yijing-wu&layout=compact&count_private=true"  />
+</div>
