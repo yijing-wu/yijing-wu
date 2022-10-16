@@ -1,4 +1,6 @@
-### Hi there, This is Yijing Wu 👋
+<p align="center">
+    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" />
+</p>
 
 <!--
 **yijing-wu/yijing-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
 
-
+<!-- deploy github readme stats at vercel to link my private repos -->
 <div>
   <img height="170em" src="https://github-readme-stats-yijing-wu.vercel.app/api?username=yijing-wu&show_icons=true&theme=default&count_private=true" />
   &nbsp;&nbsp;
