@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" />
+    <img width="60%" alt="Hi there, I'm Yijing." src="./assets/readme-header.png" />
 </p>
 
 <!--
@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
+<div align="center">
+
 <!-- deploy github readme stats at vercel to link my private repos -->
-<div>
-  <img height="170em" src="https://github-readme-stats-yijing-wu.vercel.app/api?username=yijing-wu&show_icons=true&theme=default&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats-yijing-wu.vercel.app/api/top-langs/?username=yijing-wu&layout=compact&count_private=true"  />
+| <img align="center" src="https://github-readme-stats-yijing-wu.vercel.app/api?username=yijing-wu&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yijing's github stats" /> | <img align="center" src="https://github-readme-stats-yijing-wu.vercel.app/api/top-langs/?username=yijing-wu&count_private=true&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
 </div>
+
+### 💬 Ask me about anything [here](https://github.com/yijing-wu/yijing-wu/issues)
