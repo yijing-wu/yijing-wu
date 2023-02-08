@@ -70,9 +70,7 @@
 
 <br>
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=yijing-visitor-badge&color=779BE7&lcolor=&style=flat-square&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)
-
-
+![](https://vbr.wocr.tk/badge?page_id=yijing-visitor-badge&color=779BE7&lcolor=&style=flat-square&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)
 
 <!--
 **yijing-wu/yijing-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
