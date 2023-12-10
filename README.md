@@ -5,22 +5,33 @@
 </p>
 
 ### ✨ About Me
-
-<div align="center">
-
 <!-- deploy github readme stats at vercel to link my private repos -->
-| <img align="center" src="https://github-readme-stats-yijing-wu.vercel.app/api?username=yijing-wu&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yijing's github stats" /> | <img align="center" src="https://github-readme-stats-yijing-wu.vercel.app/api/top-langs/?username=yijing-wu&count_private=true&layout=compact&theme=buefy&hide_border=true" /> |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yijing-wu&layout=compact&count_private=true&hide_border=true)
+
+
+<!-- Private -->
+
+<!-- <div align="center">
+
+| <img align="center" src="https://my-github-readme-stats-yijing-wu.vercel.app/api?username=yijing-wu&show_icons=true&theme=default&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yijing's github stats" /> | <img align="center" src="https://my-github-readme-stats-yijing-wu.vercel.app/api/top-langs/?username=yijing-wu&layout=compact&count_private=true&hide_border=true" /> |
 | ------------- | ------------- |
 
-</div>
+</div> -->
+
+<!-- More Stats -->
+<!-- ![Yijing's GitHub stats](https://my-github-readme-stats-yijing-wu.vercel.app/api?username=yijing-wu\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
+
+<!-- WakaTime -->
+<!-- ![Yijing's WakaTime stats](https://my-github-readme-stats-yijing-wu.vercel.app/api/wakatime?username=yijingw\&layout=compact) -->
 
 
+<!-- 
 ### 🛠 Things I use...
 
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -45,15 +56,15 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-![](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
 
 
-
+ -->
 
 
 ### 💬 Ask me about anything [here](https://github.com/yijing-wu/yijing-wu/issues)
@@ -79,18 +90,3 @@
 <br>
 
 ![](https://vbr.wocr.tk/badge?page_id=yijing-visitor-badge&color=779BE7&lcolor=&style=flat-square&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)
-
-<!--
-**yijing-wu/yijing-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
